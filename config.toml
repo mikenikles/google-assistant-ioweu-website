@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://i-owe-you.now.sh/"
 languageCode = "en-us"
 title = "I Owe You"
 theme = "hugo-icon"
@@ -54,7 +54,7 @@ theme = "hugo-icon"
 # Services section
 [params.services]
   enable = true
-  video = true
+  video = false
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "How I can help you"
   description = "I'm a very humble piece of technology. Read on to learn about my two main features I can help you with."
