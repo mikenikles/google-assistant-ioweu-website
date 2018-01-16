@@ -42,14 +42,15 @@ theme = "hugo-icon"
     name = "i-owe-you"
     title = "You owe someone"
     subtitle = "When others pay for you and you owe them."
-    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid aperiam eveniet officia molestiae temporibus beatae dolores dignissimos aspernatur eius doloremque ad, eaque pariatur, repellendus illum, nostrum velit necessitatibus molestias.</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>We've all been there... Go for lunch coworkers only to realize you forgot your wallet. Kind as they are, one of your coworkers pays your lunch.<br/>However, life is busy and you forget to pay back your coworker 😳.</p><p><strong>This is where I come in!</strong></p><p>With your Google Assistant on your phone or Google Home device, simply say <strong>\"Hey Google, talk to 'I Owe You'.\"</strong></p>This wakes me up and once I'm fully awake, go on by saying <strong>\"I owe Hanna $25.\"</strong><p>Keep doing that for friends, family, strangers 🤷‍ and leave the rest to me. Ask me <strong>\"Who do I owe?\"</strong> to get an overview of all the people you owe.</p>"
 
   [[params.mission.item]]
     weight = 2
     name = "you-owe-me"
     title = "Someone owes you"
     subtitle = "When you pay for others and they owe you."
-    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>As a kind human being, you end up in situations where you lend family, friends, neighbours, etc some money. Keeping track of that is now simpler than ever thanks to me.</p><p>With your Google Assistant on your phone or Google Home device, simply say <strong>\"Hey Google, talk to 'I Owe You'.\"</strong></p><p>This wakes me up and once I'm fully awake, go on by saying <strong>\"Hanna owes me $25.\"</strong></p><p>Ask me <strong>\"Who owes me?\"</strong> to get an overview of all the people who owe you.</p>"
+    # description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
 # Services section
 [params.services]
@@ -62,7 +63,7 @@ theme = "hugo-icon"
   [[params.services.item]]
     icon = "icon-user-unfollow"
     title = "You owe someone"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "Say: <ul class='checked'><li>\"I owe Hanna $25\"</li><li>\"Who do I owe?\"</li></ul> and I will do the rest."
 
   [[params.services.item]]
     icon = ""
@@ -72,7 +73,7 @@ theme = "hugo-icon"
   [[params.services.item]]
     icon = "icon-user-following"
     title = "Someone owes you"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "Say: <ul class='checked'><li>\"Hanna owes me $25\"</li><li>\"Who owes me?\"</li></ul> and I will do the rest."
 
 # Work section
 [params.work]
@@ -142,7 +143,7 @@ theme = "hugo-icon"
   [[params.team.item]]
     name = "Hanna Choi"
     position = "CGSDO (Chief Get Stuff Done Officer)"
-    description = "Simple, I make sure stuff gets done around here."
+    description = "It's pretty simple: I make sure stuff gets done around here."
     img = "images/person3.jpg"
 
 # Contact section
