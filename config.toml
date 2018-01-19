@@ -11,8 +11,8 @@ theme = "hugo-icon"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "I Owe You 💰"
-  description = "Never forget who you owe or who owes you."
+  title = "\"Hey Google, talk to I Owe You\""
+  description = "Never forget who you owe or who owes you. 💰"
 
 # Navigation section
 [params.nav]
