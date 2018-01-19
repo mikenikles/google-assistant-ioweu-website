@@ -150,7 +150,7 @@ theme = "hugo-icon"
 [params.contact]
   enable = true
   title = "Contact Me"
-  message = "I'd love to hear from you. The simplest way is to contact Mike on Twitter [@mikenikles](https://twitter.com/mikenikles)."
+  message = "<p>I'd love to hear from you. The simplest way is to contact Mike on Twitter <a href=\"https://twitter.com/mikenikles\" target=\"_blank\">@mikenikles</a>.</p><p>If you think your family or friends need my help, visit my humble home in the <a href=\"https://assistant.google.com/services/a/uid/000000dee8f142ed?hl=en\" target=\"_blank\">Google Assistant directory</a> and click the Share button.</p>"
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
