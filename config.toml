@@ -6,12 +6,12 @@ theme = "hugo-icon"
 # Metadata
 [params]
   author = "Mike N."
-  description = "I Owe You"
+  description = "I Owe You Google Assistant bot."
 
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "\"Hey Google, talk to I Owe You\""
+  title = "🗣 \"Hey Google, talk to I Owe You\""
   description = "Never forget who you owe or who owes you. 💰"
 
 # Navigation section
@@ -42,14 +42,14 @@ theme = "hugo-icon"
     name = "i-owe-you"
     title = "You owe someone"
     subtitle = "When others pay for you and you owe them."
-    description = "<p>We've all been there... Go for lunch coworkers only to realize you forgot your wallet. Kind as they are, one of your coworkers pays your lunch.<br/>However, life is busy and you forget to pay back your coworker 😳.</p><p><strong>This is where I come in!</strong></p><p>With your Google Assistant on your phone or Google Home device, simply say <strong>\"Hey Google, talk to 'I Owe You'.\"</strong></p>This wakes me up and once I'm fully awake, go on by saying <strong>\"I owe Hanna $25.\"</strong><p>Keep doing that for friends, family, strangers 🤷‍ and leave the rest to me. Ask me <strong>\"Who do I owe?\"</strong> to get an overview of all the people you owe.</p>"
+    description = "<p>We've all been there... Go for lunch with coworkers, then realize you forgot your wallet. Kind as they are, one of your coworkers pays for your lunch.<br/>However, life is busy and you forget to pay them back 😳.</p><p><strong>This is where I come in! 👋</strong></p><p>With the Google Assistant on your phone or Google Home device, simply say <strong>\"Hey Google, talk to 'I Owe You'.\"</strong></p>This wakes me up and once I'm fully awake, go on by saying <strong>\"I owe Hanna $25.\"</strong><p>Keep doing that for friends, family, strangers 🤷‍ and leave the rest to me. Ask me <strong>\"Who do I owe?\"</strong> at any time to get an overview of all the people you owe.</p>"
 
   [[params.mission.item]]
     weight = 2
     name = "you-owe-me"
     title = "Someone owes you"
     subtitle = "When you pay for others and they owe you."
-    description = "<p>As a kind human being, you end up in situations where you lend family, friends, neighbours, etc some money. Keeping track of that is now simpler than ever thanks to me.</p><p>With your Google Assistant on your phone or Google Home device, simply say <strong>\"Hey Google, talk to 'I Owe You'.\"</strong></p><p>This wakes me up and once I'm fully awake, go on by saying <strong>\"Hanna owes me $25.\"</strong></p><p>Ask me <strong>\"Who owes me?\"</strong> to get an overview of all the people who owe you.</p>"
+    description = "<p>As a kind human being, you end up in situations where you lend family, friends, neighbours, etc some money. Keeping track of that is now simpler than ever thanks to me.</p><p>With the Google Assistant on your phone or Google Home device, simply say <strong>\"Hey Google, talk to 'I Owe You'.\"</strong></p><p>This wakes me up and once I'm fully awake, go on by saying <strong>\"Hanna owes me $25.\"</strong></p><p>Ask me <strong>\"Who owes me?\"</strong> at any time to get an overview of all the people who owe you.</p>"
     # description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
 # Services section
@@ -58,7 +58,7 @@ theme = "hugo-icon"
   video = false
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "How I can help you"
-  description = "I'm a very humble piece of technology. Read on to learn about my two main features I can help you with."
+  description = "I'm a very humble piece of technology. Read on to learn about my two main things I can help you with."
 
   [[params.services.item]]
     icon = "icon-user-unfollow"
@@ -128,7 +128,7 @@ theme = "hugo-icon"
   [[params.team.item]]
     name = "Mike Nikles"
     position = "CEO (Chief Engineering Officer)"
-    description = "I engineer software."
+    description = "I build products."
     img = "images/person1.jpg"
     twitter = "https://twitter.com/mikenikles"
     github = "https://github.com/mikenikles"
@@ -142,7 +142,7 @@ theme = "hugo-icon"
 
   [[params.team.item]]
     name = "Hanna Choi"
-    position = "CGSDO (Chief Get Stuff Done Officer)"
+    position = "CGSDO (Chief Get-Stuff-Done Officer)"
     description = "It's pretty simple: I make sure stuff gets done around here."
     img = "images/person3.jpg"
 
